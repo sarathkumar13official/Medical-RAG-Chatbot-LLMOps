@@ -38,7 +38,11 @@ GitHub → Jenkins → Docker Build → Trivy Scan → AWS ECR → AWS App Runne
 
 ---
 
+
 ## 📁 Repository Structure
+
+
+<img width="1586" height="992" alt="MEDICAL RAG CHATBOT FLOW DIAGRAM" src="https://github.com/user-attachments/assets/0eb4b547-fcd6-4dab-bb0f-7c57276f4206" />
 
 ```bash
 LLMOPS-2-TESTING-MEDICAL/
@@ -54,4 +58,4 @@ LLMOPS-2-TESTING-MEDICAL/
 
 
 
-<img width="1586" height="992" alt="MEDICAL RAG CHATBOT FLOW DIAGRAM" src="https://github.com/user-attachments/assets/0eb4b547-fcd6-4dab-bb0f-7c57276f4206" />
+
